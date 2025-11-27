@@ -62,4 +62,3 @@ L'animale viene deviato nell'area di controllo se:
 ---
 
 **Autore:** Lucia Brando
-**Stato del progetto:** Completato ✅
